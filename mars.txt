@@ -1,4 +1,4 @@
-Some random facts about mars are stored in this file.
+Same line change. Some random facts about mars are stored in this file.
 Mars is a cold and dry planet.
 
 
@@ -10,3 +10,4 @@ Mars has a thin atmosphere.
 Change
 
 Github website changes
+Mars shouldn't be able to push without a conflict.
